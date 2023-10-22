@@ -1,4 +1,4 @@
-"use strict";
+"use strict1";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.ComponentApp = void 0;
 var react_1 = require("react");
